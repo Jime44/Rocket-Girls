@@ -1,0 +1,41 @@
+
+.nombre, .correo, .mensaje {
+    width: 200px;
+    height: 25px;
+    border: 1px solid #229954;
+    border-radius: 3px;
+}
+
+.btn{
+    width: 115px;
+    height: 35px;
+    color: #ffffff;
+    background: #229954;
+    border: 1px solid #1d7c44 ;
+    border-radius: 3px;
+}
+
+.btn:hover{
+    background: #176337;
+}
+
+.link{
+    color: black;
+    text-decoration: none;
+}
+
+.link:hover{
+    color:red;
+    text-decoration: underline;
+}
+
+.link_{
+    color: black;
+}
+
+.container{
+    width: 500px;
+}
+.link__{
+    color: black;
+}
